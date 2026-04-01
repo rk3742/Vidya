@@ -6,6 +6,8 @@
 
 **VIDYA** is a comprehensive AI-powered tutoring platform designed specifically for JEE and NEET aspirants. It combines adaptive learning, spaced repetition, and multi-language AI explanations to provide personalized learning experiences.
 
+**Deployed link : https://vidya-ai-coral.vercel.app/**
+
 ## 🌟 Features
 
 ### 📚 **Practice Mode**
