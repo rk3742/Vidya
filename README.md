@@ -352,7 +352,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**RK**
+**RithikSaikumarKona**
 - GitHub: [@rk3742](https://github.com/rk3742)
 
 ## 🙏 Acknowledgments
@@ -365,7 +365,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Support
 
-For support, email [your-email@example.com] or open an issue in the GitHub repository.
+For support, email [konarithiksai@gmail.com] or open an issue in the GitHub repository.
 
 ---
 
